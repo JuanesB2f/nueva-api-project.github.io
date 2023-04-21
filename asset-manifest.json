@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nueva-api-project.github.io/static/css/main.57d8f01a.css",
+    "main.css": "/nueva-api-project.github.io/static/css/main.5bad8e17.css",
     "main.js": "/nueva-api-project.github.io/static/js/main.50b039e9.js",
     "index.html": "/nueva-api-project.github.io/index.html",
-    "main.57d8f01a.css.map": "/nueva-api-project.github.io/static/css/main.57d8f01a.css.map",
+    "main.5bad8e17.css.map": "/nueva-api-project.github.io/static/css/main.5bad8e17.css.map",
     "main.50b039e9.js.map": "/nueva-api-project.github.io/static/js/main.50b039e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.57d8f01a.css",
+    "static/css/main.5bad8e17.css",
     "static/js/main.50b039e9.js"
   ]
 }
